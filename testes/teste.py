@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 import numpy as np
-import calculos_ar as ar
+import testes.calculos_ar as ar
 
 mp_holistic = mp.solutions.holistic
 mp_drawing = mp.solutions.drawing_utils
